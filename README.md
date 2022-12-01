@@ -12,7 +12,8 @@ a web server that runs git
 
 * has community that basically do the same thing 
 
-## repo - project
+## repo 
+project
 
 * can have multiple files in it. 
 
